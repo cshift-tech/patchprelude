@@ -1,4 +1,4 @@
-# vuln-mgmt-done
+# Patch Prelude: Vulnerability ticket orchestration
 Blue print for technical vulnerability mgmt from discovery to completion.
 
 ![Blueprint](blueprint%20basic.jpg)
