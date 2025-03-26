@@ -1,6 +1,8 @@
 # vuln-mgmt-done
 Blue print for technical vulnerability mgmt from discovery to completion.
 
+![Blueprint](blueprint%20basic.jpg)
+
 ## Description
 The Vulnerbility Management Blueprint project allows engineers, security practitioners and compliance persons to learn and practice effective and efficient software vulnerability management.
 
