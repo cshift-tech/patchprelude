@@ -1,12 +1,11 @@
 # Patch Prelude: Vulnerability ticket orchestration
-Blueprint for technical vulnerability management from discovery to completion.
+ A Blueprint for technical vulnerability management from discovery to completion.
 
 ![Blueprint](blueprint%20basic.jpg)
 
 ## Description
-The Vulnerbility Management Blueprint project allows engineers, security practitioners and compliance persons to gin insights from a proven software vulnerability management setup.
-
-The project is based on a blueprint including example roles and responibilities and sample policy and standards. This gives anyone an ability to start from a validated setup to get software vulnerability management working in any organization.
+The Vulnerability Management Blueprint project helps engineers, security practitioners, and compliance professionals gain insights from a proven software vulnerability management setup.
+It provides a comprehensive blueprint that includes example roles, responsibilities, sample policy and supporting standards. This gives anyone a validated starting point for implementing effective software vulnerability management in any organization.
 
 All information is released under a MIT license so feel free to make use of it!
 
