@@ -4,7 +4,7 @@
 ![Blueprint](blueprint%20basic.jpg)
 
 ## Description
-The Vulnerability Management Blueprint project helps engineers, security practitioners, and compliance professionals gain insights from a proven software vulnerability management setup.
+The Patch Prelude project helps engineers, security practitioners, and compliance professionals gain insights from a proven software vulnerability management setup.
 It provides a comprehensive blueprint that includes example roles, responsibilities, sample policy and supporting standards. This gives anyone a validated starting point for implementing effective software vulnerability management in any organization.
 
 All information is released under a MIT license so feel free to make use of it!
