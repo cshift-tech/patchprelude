@@ -31,3 +31,4 @@ The Product Owner for Vulnerability Management is responsible for maximizing the
 * Effectiveness of Vulnerability Scanning
 
 **Reports to:**
+* CISO or IT Security Officer or Head of Development
