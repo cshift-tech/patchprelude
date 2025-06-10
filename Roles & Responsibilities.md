@@ -13,7 +13,7 @@ The roles and responsibilities outlined on this page are specifically designed t
 * Perform manual penetration testing and security assessments for targeted areas.
 * Define and implement an initial prioritization framework for identified vulnerabilities.
 * Automate the initial prioritization of the majority of detected vulnerabilities based on predefined criteria (e.g., CVSS score, exploitability).
-' Manually assess and prioritize a subset of vulnerabilities requiring expert judgment and contextual understanding.
+* Manually assess and prioritize a subset of vulnerabilities requiring expert judgment and contextual understanding.
 
 **Security Alerting:**
 * Define and implement alert rules for security vulnerabilities exceeding established severity thresholds.
