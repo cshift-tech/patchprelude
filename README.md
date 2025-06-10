@@ -9,6 +9,10 @@ It provides a comprehensive blueprint that includes example roles, responsibilit
 
 All information is released under a MIT license so feel free to make use of it!
 
+## Roles & Responsibilities
+Roles and responsibilites templates for the Security team, Development team and a Vulnerability management PO are available [here](https://github.com/cshift-tech/patchprelude/blob/main/Roles%20%26%20Responsibilities.md)
+
+
 ## License
 MIT License
 Copyright (c) 2025 CShift
