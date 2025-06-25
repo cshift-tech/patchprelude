@@ -19,7 +19,7 @@ A successful vulnerability management program is built upon a continuous cycle o
 
 At CShift, we believe that robust vulnerability management should be accessible to all. That's why we've open-sourced Patch Prelude, our proven blueprint for technical vulnerability management from discovery to completion.
 
-Patch Prelude helps engineers, security practitioners, and compliance professionals gain insights from a fully validated vulnerability management setup. It provides a comprehensive, ready-to-use framework that includes example roles, responsibilities, sample policy, and supporting standards. It's designed to give any organization a solid starting point for implementing effective software vulnerability management processes, completely free of charge.
+Patch Prelude helps engineers, security practitioners, and compliance professionals gain insights from a fully validated vulnerability management setup. It provides a  ready-to-use blueprint that includes example roles and responsibilities. It's designed to give any organization a solid starting point for implementing effective software vulnerability management processes, completely free of charge.
 
 # Vulnerability Management Blueprint
 The image  visually outlines the Patch Prelude blueprint for technical vulnerability management. It illustrates a comprehensive and orchestrated process, through every stage from vulnerability discovery to effective resolution and continuous monitoring.
